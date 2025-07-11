@@ -1,3 +1,5 @@
 testing merge command 
 i have added this file in feature branch 
 now will merge this in master branch
+
+creating conflict in ladningzone
